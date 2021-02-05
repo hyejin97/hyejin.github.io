@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyejin Kim"
-  avatar           : "/assets/images/profile.jpg"
+  avatar           : "/assets/profile.jpg"
   bio              : "Self-motivated engineer aspiring to impact the world through technology"
   location         : "Manhattan, NY"
   email            : #"hk3342@nyu.edu"
