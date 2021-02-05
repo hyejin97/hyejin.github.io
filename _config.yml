@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyejin Kim"
 description              : "An amazing website."
-url                      : "https://hyejinyu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://hyejin97.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "hyejin97/hyejin.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "hyejin97/hyejin97.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -93,18 +93,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hyejin Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Self-motivated engineer aspiring to impact the world through technology"
+  location         : "Manhattan, NY"
+  email            : #"hk3342@nyu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:hk3342@nyu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.linkedin.com/in/hyejin-kim-a4016914a/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://hyejin97.github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://hyejin97.github.com/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
