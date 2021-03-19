@@ -2,9 +2,13 @@
 main:
   - title: "About me"
     url: /about/
-#   - title: "Projects"
-#     url: /projects/
-  - title: "Blog"
-    url: /posts/
+  - title: "Skills"
+    url: /skills/
+  - title: "Experience"
+    url: /experience/
+  - title: "Projects"
+    url: /projects/
+  - title: "Publications"
+    url: /publications/
   # - title: "Sitemap"
   #   url: /sitemap/
